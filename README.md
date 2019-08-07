@@ -1,4 +1,4 @@
-# Checkers
+# 3D Checkers
 Six Men Morris Game build on OpenGL
 
 ## About the game
