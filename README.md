@@ -8,6 +8,6 @@ Learn how to play the game [here](https://en.wikipedia.org/wiki/Nine_men%27s_mor
 `./checkers`
 
 ## Screenshots
-![1](1.png)
+![1](3.png)
 
-![2](2.png)
+![2](1.png)
